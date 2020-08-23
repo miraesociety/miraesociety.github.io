@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+[우리가 만드는 정책백서 1호](/mirae-policy)
+
 You can use the [editor on GitHub](https://github.com/miraesociety/miraesociety.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
